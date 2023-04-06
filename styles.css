@@ -1,0 +1,36 @@
+body{
+    background: hsl(220, 15%, 55%)
+    }
+.inner{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 14px;
+    position: relative;
+    top:90px;
+}
+.qr{
+    position:relative;
+    left:12px;
+    width:175px;
+    border-radius: 14px;
+    
+}
+.topline{
+    text-align: center;
+    font-family: outfit;
+    font-size: 15px;
+    width: 92%;
+    margin: auto;
+    padding-top: 15px;
+}
+.bottomline{
+    font-family: outfit;
+    width:85%;
+    margin: auto;
+    text-align: center;
+    font-size: 9px;
+    padding-top: 10px;
+}
